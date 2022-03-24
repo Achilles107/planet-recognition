@@ -63,7 +63,7 @@ In this project, we have used Convolutional Neural Network to identify the plane
 ![alt text](images/result.png)
 
 
-![Watch the video](images/planets.mp4)
+![Watch the video](https://github.com/Achilles107/planet-recognition/blob/main/images/planets.mp4)
 
 
 
