@@ -63,6 +63,9 @@ In this project, we have used Convolutional Neural Network to identify the plane
 ![alt text](images/result.png)
 
 
+![Watch the video](images/planets.mp4)
+
+
 
 ### Useful resources
 
